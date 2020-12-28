@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Blooma/static/css/main.455f1998.chunk.css",
+    "main.js": "/Blooma/static/js/main.3412c75d.chunk.js",
+    "main.js.map": "/Blooma/static/js/main.3412c75d.chunk.js.map",
+    "runtime-main.js": "/Blooma/static/js/runtime-main.d57d394c.js",
+    "runtime-main.js.map": "/Blooma/static/js/runtime-main.d57d394c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Blooma/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0edff3de.chunk.js": "/Blooma/static/js/2.0edff3de.chunk.js",
+    "static/js/2.0edff3de.chunk.js.map": "/Blooma/static/js/2.0edff3de.chunk.js.map",
+    "index.html": "/Blooma/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Blooma/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.455f1998.chunk.css.map": "/Blooma/static/css/main.455f1998.chunk.css.map",
+    "static/js/2.0edff3de.chunk.js.LICENSE.txt": "/Blooma/static/js/2.0edff3de.chunk.js.LICENSE.txt",
+    "static/media/favicon.67b627be.png": "/Blooma/static/media/favicon.67b627be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57d394c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0edff3de.chunk.js",
+    "static/css/main.455f1998.chunk.css",
+    "static/js/main.3412c75d.chunk.js"
+  ]
+}

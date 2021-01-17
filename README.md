@@ -1,3 +1,3 @@
 # Blooma
-Only Client side of this page .
+This is the web app here
 https://thebloomaa.com/
